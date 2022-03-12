@@ -23,3 +23,5 @@
 🌱 Aprendiendo:
 • Programación -> Scala (Databricks)
 • Cloud -> AWS
+
+https://www.linkedin.com/in/raquel-garcia-soares/
