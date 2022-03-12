@@ -1,16 +1,25 @@
-### Hi there 👋
+## ¡Hola, soy Raquel Garcia!
 
-<!--
-**raquelgarciasoares/raquelgarciasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Apasionada por la tecnología y todo lo que ella puede aportar.
 
-Here are some ideas to get you started:
+📚 Estudiante del Máster en Data Science & Business Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 ¡Buscando una nueva oportunidad en el área de Big Data!
+
+⚡ Siempre dispuesta a aprender.
+
+💬 Hablo portugués, español y soy estudiante de inglés.
+
+📫 garciasoaresraquel@gmail.com
+
+🛠 Lenguajes y Herramientas:
+• Programación -> Python 
+• Framework: Hadoop (HDFS, Hive), Apache Spark
+• Base de Datos SQL -> MySQL
+• Sistemas -> Windows | Linux
+• Base de Datos NoSQL -> MongoDB | Neo4J | Hbase 
+• Proceso ETL/ELT
+
+🌱 Aprendiendo:
+• Programación -> Scala (Databricks)
+• Cloud -> AWS
