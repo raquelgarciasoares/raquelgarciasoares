@@ -11,6 +11,7 @@
 💬 Hablo portugués, español y soy estudiante de inglés.
 
 
+
 🛠️ Lenguajes y Herramientas:
 
 • Programación -> Python 
