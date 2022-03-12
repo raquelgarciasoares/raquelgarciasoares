@@ -13,18 +13,23 @@
 
 🛠️ Lenguajes y Herramientas:
 
-📌 Programación -> Python 
+• Programación -> Python 
 
-📌 Framework: Hadoop (HDFS, Hive), Apache Spark
+• Framework: Hadoop (HDFS, Hive), Apache Spark
 
-📌 Base de Datos SQL -> MySQL
-📌 Sistemas -> Windows | Linux
-📌 Base de Datos NoSQL -> MongoDB | Neo4J | Hbase 
-📌 Proceso ETL/ELT
+• Base de Datos SQL -> MySQL
+
+• Sistemas -> Windows | Linux
+
+• Base de Datos NoSQL -> MongoDB | Neo4J | Hbase 
+
+• Proceso ETL/ELT
 
 🌱 Aprendiendo:
-📌 Programación -> Scala (Databricks)
-📌 Cloud -> AWS
+
+• Programación -> Scala (Databricks)
+
+• Cloud -> AWS
 
 📫 garciasoaresraquel@gmail.com
 
