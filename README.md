@@ -9,8 +9,7 @@
 👩‍💻 Siempre dispuesta a aprender.
 
 💬 Hablo portugués, español y soy estudiante de inglés.
-
-
+*****************************************************************
 
 🛠️ Lenguajes y Herramientas:
 
@@ -31,6 +30,7 @@
 • Programación -> Scala (Databricks)
 
 • Cloud -> AWS
+*****************************************************************
 
 📫 garciasoaresraquel@gmail.com
 
