@@ -12,7 +12,8 @@
 
 📫 garciasoaresraquel@gmail.com
 
-🛠 Lenguajes y Herramientas:
+🛠️ Lenguajes y Herramientas:
+
 • Programación -> Python 
 • Framework: Hadoop (HDFS, Hive), Apache Spark
 • Base de Datos SQL -> MySQL
@@ -24,6 +25,4 @@
 • Programación -> Scala (Databricks)
 • Cloud -> AWS
 
-https://www.linkedin.com/in/raquel-garcia-soares/
-![image](https://user-images.githubusercontent.com/91500490/158033257-df704e15-a5cd-4d4c-a608-0aa83680873f.png)
 
