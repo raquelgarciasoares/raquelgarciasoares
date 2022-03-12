@@ -14,7 +14,9 @@
 🛠️ Lenguajes y Herramientas:
 
 📌 Programación -> Python 
+
 📌 Framework: Hadoop (HDFS, Hive), Apache Spark
+
 📌 Base de Datos SQL -> MySQL
 📌 Sistemas -> Windows | Linux
 📌 Base de Datos NoSQL -> MongoDB | Neo4J | Hbase 
