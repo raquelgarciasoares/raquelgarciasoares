@@ -8,7 +8,7 @@
 
 👩‍💻 Siempre dispuesta a aprender.
 
-💬 Hablo portugués, español y soy estudiante de inglés.
+💬 Hablo portugués y español.
 *****************************************************************
 
 🛠️ Lenguajes y Herramientas:
