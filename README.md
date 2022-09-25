@@ -1,14 +1,14 @@
 ## ¡Hola, soy Raquel Garcia!
 
-❤️ Apasionada por la tecnología y todo lo que ella puede aportar.
+❤️ Apasionada por la tecnología y la ingenieria de datos.
 
-📚 Estudiante del Máster en Data Science & Business Analytics.
+📚 Máster en Data Science & Business Analytics.
 
-🎯 ¡Buscando una nueva oportunidad en el área de Big Data!
+🎯 ¡Data Engineer!
 
-👩‍💻 Siempre dispuesta a aprender.
+👩‍💻 Eterna estudiante.
 
-💬 Hablo portugués y español.
+💬 Portugués y español.
 *****************************************************************
 
 🛠️ Lenguajes y Herramientas:
@@ -17,19 +17,19 @@
 
 • Framework: Hadoop (HDFS, Hive), Apache Spark
 
-• Base de Datos SQL -> MySQL
+• Base de Datos SQL -> Oracle SQL Developer
 
 • Sistemas -> Windows | Linux
 
 • Base de Datos NoSQL -> MongoDB | Neo4J | Hbase 
 
-• Proceso ETL/ELT
+• Proceso ETL/ELT -> Oracle Data Integrator 12C
 
-🌱 Aprendiendo:
+🌱 En proceso:
 
 • Programación -> Scala (Databricks)
 
-• Cloud -> AWS
+• Cloud -> Azure DP 203
 *****************************************************************
 
 📫 garciasoaresraquel@gmail.com
