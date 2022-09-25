@@ -17,7 +17,7 @@
 
 • Framework: Hadoop (HDFS, Hive), Apache Spark
 
-• Base de Datos SQL -> Oracle SQL Developer
+• Base de Datos SQL -> Oracle SQL Developer | SQL Server
 
 • Sistemas -> Windows | Linux
 
