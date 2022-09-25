@@ -25,7 +25,7 @@
 
 • Proceso ETL/ELT -> Oracle Data Integrator 12C
 
-🌱 En proceso:
+🌱 Desarrollando:
 
 • Programación -> Scala (Databricks)
 
