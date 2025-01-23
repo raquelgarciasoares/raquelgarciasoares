@@ -4,9 +4,7 @@
 
 📚 Máster en Data Science & Business Analytics.
 
-🎯 ¡Data Engineer!
-
-👩‍💻 Eterna estudiante.
+👩‍💻 ¡Data Engineer!
 
 💬 Portugués y español.
 *****************************************************************
@@ -23,7 +21,7 @@
 
 • Base de Datos NoSQL -> MongoDB | Neo4J | Hbase 
 
-• Proceso ETL/ELT -> Oracle Data Integrator 12C
+• Proceso ETL/ELT -> Oracle Data Integrator 12C | IDMC Informatica
 
 🌱 Desarrollando:
 
